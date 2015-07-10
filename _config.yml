@@ -2,7 +2,7 @@
 title: Sinar Project's Github Page
 email: team@sinarproject.org
 description: > # this means to ignore newlines until "baseurl:"
-  This is where we list our project and anything in between 
+  This is where we list our projects and anything in between 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://sinar.github.io" # the base hostname & protocol for your site
 twitter_username: sinar
