@@ -3,9 +3,9 @@ layout: post
 title: Sinar Project's project page on github
 ---
 
-This page exist so that people finding us on github can find out how to help sinar project. We don't only build software, we also have social audits and also running events. Here we only focus on our software. 
+This page exists so that people looking for us on github can find out how to help sinar project. We don't only build software, we also have social audits and running events. Here we only focus on our software. 
 
-This is our currently active project, some we work with upstream developer
+These are our current active projects. Some are the fruits of collaboration with upstream developers.
 
 * Billwatcher   
   * URL: [http://billwatcher.sinarproject.org](http://billwatcher.sinarproject.org)
@@ -20,4 +20,4 @@ This is our currently active project, some we work with upstream developer
   * URL: [http://aduanku.my/](http://aduanku.my/)
   * Repo: [https://github.com/mysociety/fixmystreet](https://github.com/mysociety/fixmystreet)
  
-If you are interested to help you can just look at the issues. All discussion should be happen in the github issues
+If you are interested to help you can check out the issues. All discussion should be happen in the github issues.
