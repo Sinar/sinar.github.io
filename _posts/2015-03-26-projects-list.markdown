@@ -10,6 +10,7 @@ These are our current active projects. Some are the fruits of collaboration with
 * Billwatcher   
   * URL: [http://billwatcher.sinarproject.org](http://billwatcher.sinarproject.org)
   * Repo: [https://github.com/Sinar/BillWatcher-2.0](https://github.com/Sinar/BillWatcher-2.0)
+  * Status: Service Running, Development is slow
 * MapIt
   * URL: [http://mapit.sinarproject.org/](http://mapit.sinarproject.org/)
   * Repo: [https://github.com/Sinar/MapIt](https://github.com/Sinar/MapIt)
